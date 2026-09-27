@@ -4,7 +4,7 @@ Repository ini digunakan sebagai tempat untuk menyimpan latihan dan proses pembe
 
 ## Deskripsi
 
-Repository **belajar-html-css** berisi kumpulan latihan dasar dalam membuat halaman website menggunakan HTML dan CSS.
+Repository **belajar-html-css** berisi latihan dasar dalam membuat halaman website menggunakan HTML dan CSS.
 
 HTML digunakan untuk membuat struktur dan isi dari sebuah halaman website, sedangkan CSS digunakan untuk mengatur tampilan, warna, ukuran, jarak, dan tata letak dari halaman tersebut.
 
